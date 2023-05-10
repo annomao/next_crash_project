@@ -1,5 +1,6 @@
-import React from 'react'
-
+export const metadata = {
+    title: "About the team"
+}
 const AboutTeam = () => {
   return (
     <div>

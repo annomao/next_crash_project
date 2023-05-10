@@ -14,6 +14,9 @@ const HomePage = () => {
         <li>
           <Link href='/about/team'>TEAM</Link>
         </li>
+        <li>
+          <Link href='/code/repos'>REPOSITORIES</Link>
+        </li>
       </ul>
 
     </div>
